@@ -1325,6 +1325,9 @@
 				width: auto;
 			}
 
+	.image_hover:hover{
+		opacity: .5;
+	}
 /* Button */
 
 	input[type="button"],
@@ -1399,6 +1402,8 @@
 			.button.alt:active {
 				background-color: #3f3f3f;
 			}
+
+
 
 /* List */
 
